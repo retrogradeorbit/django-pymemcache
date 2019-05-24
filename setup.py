@@ -5,7 +5,7 @@ from setuptools import find_packages, setup
 from djpymemcache import __version__
 
 requirements = [
-    'Django>=1.11',
+    'Django>=1.9.1',
     'pymemcache',
 ]
 
